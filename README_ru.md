@@ -2,7 +2,7 @@
 
 Парсер телефонных номеров. Хорошо подходит для форматирования номера вводимого пользователем.
 
-[Пример](https://codesandbox.io/s/angry-firefly-vyjj0?fontsize=14&hidenavigation=1&theme=dark)
+[Пример](https://codesandbox.io/s/k2ipm)
 
 ## Установка
 
