@@ -2,7 +2,7 @@
 
 Parser phone numbers. Good for formatting numbers entered by the user.
 
-[Example](https://codesandbox.io/s/angry-firefly-vyjj0?fontsize=14&hidenavigation=1&theme=dark)
+[Example](https://codesandbox.io/s/k2ipm)
 
 
 
